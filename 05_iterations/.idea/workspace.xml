@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24850004-a086-4cc0-b15a-59b7e9af211a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTQwcDGmd5XBjrndSobCojMXgN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.exercise_02">
+    <configuration name="assignment_5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05_iterations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/assignment_5.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05_iterations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05_iterations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05_iterations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise_02" />
+        <item itemvalue="Python.assignment_5.2" />
+        <item itemvalue="Python.exercise_01" />
+        <item itemvalue="Python.iteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24850004-a086-4cc0-b15a-59b7e9af211a" name="Default Changelist" comment="" />
+      <created>1582964343823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582964343823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="666" height="138" key="GridCell.Tab.0.bottom" timestamp="1583038649035">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583038649035" />
+    <state width="666" height="138" key="GridCell.Tab.0.center" timestamp="1583038649034">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583038649034" />
+    <state width="666" height="138" key="GridCell.Tab.0.left" timestamp="1583038649034">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583038649034" />
+    <state width="666" height="138" key="GridCell.Tab.0.right" timestamp="1583038649035">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583038649035" />
+    <state width="666" height="174" key="GridCell.Tab.1.bottom" timestamp="1583020601657">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583020601657" />
+    <state width="666" height="174" key="GridCell.Tab.1.center" timestamp="1583020601656">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1583020601656" />
+    <state width="666" height="174" key="GridCell.Tab.1.left" timestamp="1583020601656">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1583020601656" />
+    <state width="666" height="174" key="GridCell.Tab.1.right" timestamp="1583020601657">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1583020601657" />
+    <state x="773" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1583027019000">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="773" y="174" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583027019000" />
+    <state x="568" y="344" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582982706775">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="568" y="344" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.877@0.23.1440.877" timestamp="1582982706775" />
+  </component>
+</project>

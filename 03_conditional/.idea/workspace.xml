@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a69b797-1eee-4932-999e-a22bc5411caa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKxUA5kpprdXGhfE89yh2guvr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.exercise3">
+    <configuration name="03_excercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03_conditional" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_excercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03_conditional" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03_conditional" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise3" />
+        <item itemvalue="Python.03_excercise" />
+        <item itemvalue="Python.conditional" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a69b797-1eee-4932-999e-a22bc5411caa" name="Default Changelist" comment="" />
+      <created>1582705099803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582705099803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="666" height="138" key="GridCell.Tab.0.bottom" timestamp="1582985832386">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582985832386" />
+    <state width="666" height="138" key="GridCell.Tab.0.center" timestamp="1582985832386">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582985832386" />
+    <state width="666" height="138" key="GridCell.Tab.0.left" timestamp="1582985832386">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582985832386" />
+    <state width="666" height="138" key="GridCell.Tab.0.right" timestamp="1582985832386">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="138" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582985832386" />
+    <state width="666" height="174" key="GridCell.Tab.1.bottom" timestamp="1582944543158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582944543158" />
+    <state width="666" height="174" key="GridCell.Tab.1.center" timestamp="1582944543158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1582944543158" />
+    <state width="666" height="174" key="GridCell.Tab.1.left" timestamp="1582944543157">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1582944543157" />
+    <state width="666" height="174" key="GridCell.Tab.1.right" timestamp="1582944543158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="666" height="174" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1582944543158" />
+    <state x="52" y="146" key="SettingsEditor" timestamp="1582775888811">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="52" y="146" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582775888811" />
+    <state x="773" y="433" key="com.intellij.ide.util.TipDialog" timestamp="1582963901977">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="773" y="433" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582963901977" />
+    <state x="761" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1582790806925">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="761" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1582790806925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conditional.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
